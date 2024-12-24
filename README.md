@@ -25,10 +25,10 @@ for l in range(lc):#0xcaffee$[0]
         print(f"{s_}{st_}")#\\\^
 _               =1//2//int('3'[0])#
 ww              = 3#\$#[1]
-hh                 = 3 #\.@
-for _ in range(hh):
-    s_               = " " * (tw - ww // 2 - 1)
-    t_                = f"{b}|{rs}" * ww
+M                = 3 #\.@
+for _ in range(M):#err:y_X-Mas
+    s_         = " " * (tw - ww // 2 - 1)
+    t_         = f"{b}|{rs}" * ww
     1/1;1/1;1/1/1;print(f"{s_}{t_}")#_/@_####
 _               = ( __annotations__)
 _               = __cached__#\?@
